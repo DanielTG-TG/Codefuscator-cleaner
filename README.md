@@ -6,3 +6,9 @@ When Codefuscator owner fixes ControlFlow I will make a cleaner for it aswell.
 
 - To do:
 - Clean useless methods.
+
+
+- Screenshots
+
+*Before
+![image](https://github.com/DanielTG-TG/Codefuscator-cleaner/blob/main/screenshots/before.png)
