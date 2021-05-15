@@ -1,0 +1,9 @@
+C:\Users\Daniel\source\repos\CodefuscatorCleaner\CodefuscatorCleaner\obj\Debug\CodefuscatorCleaner.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\CodefuscatorCleaner\CodefuscatorCleaner\obj\Debug\CodefuscatorCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\CodefuscatorCleaner\CodefuscatorCleaner\bin\Debug\CodefuscatorCleaner.exe.config
+C:\Users\Daniel\source\repos\CodefuscatorCleaner\CodefuscatorCleaner\bin\Debug\CodefuscatorCleaner.exe
+C:\Users\Daniel\source\repos\CodefuscatorCleaner\CodefuscatorCleaner\bin\Debug\CodefuscatorCleaner.pdb
+C:\Users\Daniel\source\repos\CodefuscatorCleaner\CodefuscatorCleaner\bin\Debug\dnlib.dll
+C:\Users\Daniel\source\repos\CodefuscatorCleaner\CodefuscatorCleaner\obj\Debug\CodefuscatorCleaner.csproj.CopyComplete
+C:\Users\Daniel\source\repos\CodefuscatorCleaner\CodefuscatorCleaner\obj\Debug\CodefuscatorCleaner.exe
+C:\Users\Daniel\source\repos\CodefuscatorCleaner\CodefuscatorCleaner\obj\Debug\CodefuscatorCleaner.pdb

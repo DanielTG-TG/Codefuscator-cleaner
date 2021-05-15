@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodefuscatorCleaner", "CodefuscatorCleaner\CodefuscatorCleaner.csproj", "{0C111818-FB78-4610-A77D-9CCF1EDBB453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C111818-FB78-4610-A77D-9CCF1EDBB453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C111818-FB78-4610-A77D-9CCF1EDBB453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C111818-FB78-4610-A77D-9CCF1EDBB453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C111818-FB78-4610-A77D-9CCF1EDBB453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B3B8A85-3859-4502-83D7-F7E8595B9FD8}
+	EndGlobalSection
+EndGlobal
